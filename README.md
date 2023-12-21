@@ -1,5 +1,5 @@
 # vendor-management-system
-Hii, This is chellapandian. I created a repository for vendor management systom and i add the installation steps below.
+Hii, This is chellapandian. I created a repository for vendor management system and i add the installation steps below.
 Steps.
 step-1: Create a virtual environment using the command python -m venv venv-name.
 step-2: Clone my project using the code link in git terminal using the command git clone <url>.
